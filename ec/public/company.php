@@ -14,7 +14,7 @@ $app = new MyApp\Controller\Index();
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
-<title>EC site</title>
+<title>I love Hamilton</title>
 </head>
 <body>
 
