@@ -1,6 +1,5 @@
 <?php
 
-
 require_once(__DIR__ . '/../config/config.php');
 
 // カートを初期化して空にする
